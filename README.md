@@ -1,6 +1,8 @@
 # task17
 https://gulzina-team-stepbystep.github.io/task17/
 
+для проверки скачайте мой код пожалуйста
+
 - **Описание задания**
     1. [http://code.mu/ru/javascript/book/prime/destructuring/array/](http://code.mu/ru/javascript/book/prime/destructuring/array/)
         1. Выполнить задачи: 1, 2, 3, 4, 5, 6
